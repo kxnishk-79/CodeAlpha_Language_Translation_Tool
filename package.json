@@ -1,0 +1,8 @@
+{
+  "name": "omnivox",
+  "version": "1.0.0",
+  "description": "OmniVox — Your words, universally understood. A modern language translation tool.",
+  "scripts": {
+    "dev": "npx -y live-server --port=3000 --no-browser"
+  }
+}
